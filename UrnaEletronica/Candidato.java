@@ -3,16 +3,7 @@ public class Candidato {
     String nome;
     String partido;
     String numero;
-    int votos=0;
-
-    public int getVotos() {
-        return votos;
-    }
-
-    public void setVotos( int votos) {
-        this.votos = votos;
-    }
-
+ 
     public String getNumero() {
         return numero;
     }
