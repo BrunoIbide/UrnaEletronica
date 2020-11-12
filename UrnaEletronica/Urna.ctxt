@@ -1,5 +1,7 @@
 #BlueJ class context
 comment0.target=Urna
-comment1.params=candidato
-comment1.target=void\ addVoto(Candidato)
-numComments=2
+comment1.params=eleitor
+comment1.target=boolean\ validaVoto(Eleitor)
+comment2.params=candidato
+comment2.target=void\ addVoto(Candidato)
+numComments=3
