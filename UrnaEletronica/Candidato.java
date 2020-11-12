@@ -1,8 +1,16 @@
-public class Candidato {
+public class Candidato extends Pessoa {
 
     String nome;
     String partido;
     String numero;
+    int totalVotos;
+    
+    public Candidato(){
+    
+    }
+    public int totalVotos(){
+        return totalVotos;
+    }
  
     public String getNumero() {
         return numero;
