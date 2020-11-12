@@ -1,12 +1,13 @@
-----------------------------------------------------------------------------
-Este é o arquivo README do projeto. Você deve descrever aqui o seu projeto.
-Informe ao usuário (alguém que não sabe nada sobre este projeto!) tudo que
-ele/ela precisa saber. Os comentários devem incluir, pelo menos:
-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+Trabalho de Orientação a Objetos 2, Fib Bauru, Ano de 2020,
+desenvolvido e criado por Bruno Ibide apenas, código aberto no GitHub
+para a análise do professor, não me responsabilizo por qualquer cópia 
+que alguém faça desse trabalho, caso aconteça, estou totalmente disposto
+a colaborar com quaisquer coisa que necessite.
+-------------------------------------------------------------------------
 
-TITULO DO PROJETO:
-OBJETIVO DO PROJETO:
-VERSÃO ou DATA:
-COMO INICIAR O PROJETO:
-AUTORES:
-INSTRUÇÕES PARA O USUÁRIO:
+TITULO DO PROJETO: Urna Eletrônica;
+OBJETIVO DO PROJETO:Fins educacionais;
+DATA DE ENTREGA: 13/11/2020;
+AUTORES: Bruno Vinicius Ibide de Oliveira;
+
