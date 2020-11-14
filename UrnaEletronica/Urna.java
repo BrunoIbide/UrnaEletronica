@@ -6,7 +6,7 @@ public class Urna implements Voto{
     
     
     public boolean validaVoto(Eleitor eleitor){
-        if(eleitor.votoEleitor >= 0 && eleitor.votoEleitor <= 1){
+        if(eleitor.votoEleitor == 0 && eleitor.votoEleitor <= 1){
             return true;
         }
         return false;
